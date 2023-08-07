@@ -1,0 +1,1 @@
+https://github.com/academind/100-days-of-web-development/blob/14-tic-tac-toe-project/code/08-tracking-selected-fields/styles/configuration.css
